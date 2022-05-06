@@ -1,1 +1,3 @@
+Data was collected from (https://www.princeton.edu/~jzthree/datasets/ICML2014/)
 
+Datasets used were 'cb513+profile_split1.npy.gz' and 'cullpdb+profile_5926_filtered.npy.gz'
