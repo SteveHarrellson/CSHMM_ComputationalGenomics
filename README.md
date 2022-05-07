@@ -6,6 +6,8 @@ The code listed in this repo is a final course project for CBMFW4791 Computation
 There are two main scripts. To run each of these codes, simply run them in the same folder as the downloaded datasets specified in the data folder of this repo.
 
 **pre-processing_HMM.py** Tests multiple pre-processing techniques on the emissions of the HMM. You can either run it using the lookback pre-processing or the palindromic pre-processing. The following command lines should be modified if one wishes to use palindromic pre-processing instead of lookback. The "encode_lookback_context" should be replaced by "encode_palindromic_context" and the initial padding should go up to size instead of size-1.
+
+
 <img width="525" alt="image" src="https://user-images.githubusercontent.com/105118575/167264686-61831aff-17f8-4020-aa14-3b17caf0605b.png">
 
 
