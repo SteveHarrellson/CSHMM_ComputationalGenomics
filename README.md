@@ -1,7 +1,9 @@
 # CSHMM_ComputationalGenomics
 Authors: Pendo Abbo (pa2451), Mujahed Darwaza (md4028), Steven Harrelson (sh3379)
 
-The code listed in this repo is a final course project for CBMFW4791 Computational Genomics at Columbia University, taught by professor Itsik Pe'er. The goal of this project was to use a variety of HMM architectures to predict protein secondary structure from primary structure emissions.  The dataset used is from the cap7 protein structure classification competition provided by (https://www.princeton.edu/~jzthree/datasets/ICML2014/dataset_readme.txt).  
+The code listed in this repo is a final course project for CBMFW4791 Computational Genomics at Columbia University, taught by professor Itsik Pe'er. The goal of this project was to use a variety of HMM architectures to predict protein secondary structure from primary structure emissions. 
+
+The dataset used is from the cap7 protein structure classification competition provided by (https://www.princeton.edu/~jzthree/datasets/ICML2014/dataset_readme.txt). More information can be found in the _Data_ file. Sample data has been provided in the _train_sample.npy_ and _test_sample.npy_ files.
 
 There are two main scripts. To run each of these codes, simply run them in the same folder as the downloaded datasets specified in the data folder of this repo.
 
