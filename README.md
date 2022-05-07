@@ -12,6 +12,10 @@ There are two python codes in this repository.
     #k: window size, integer
     
     #eval: inidicates the evaluation set. input 'dev' to break out 10% of training data to be used as evaluation set. input 'test' to use test set for evaluation
+    
+    #to run on sample data change lines 450 and 451 to the following:
+        cb513 = np.load('test_sample.npy')
+        cb6133filtered = np.load('train_sample.npy')
 
 To run each of these codes, simply run them in the same folder as the downloaded datasets specified in the data folder of this repo.
 No additional libraries are required for this project. The codes do not require additional computing power.
