@@ -3,7 +3,7 @@ The code listed in this repo is a final course project for CBMFW4791 Computation
 
 There are two python codes in this repository.
 
-**Pre-processing_HMM.ipynb** This code tests multiple pre-processing techniques on the emissions of the HMM. You can either run it using the lookback pre-processing or the palindromic pre-processing.
+**pre-processing_HMM.py** This code tests multiple pre-processing techniques on the emissions of the HMM. You can either run it using the lookback pre-processing or the palindromic pre-processing.
 
 **Sliding_window.py** For a value of k=1, this code runs the traditional HMM architecture on the dataset. For a k>1, it runs a pre-processing of the secondary structure such that the trailing k secondary structure labels ending at position t were used to express the hidden state of position t. The code can be run using the following command:
     
