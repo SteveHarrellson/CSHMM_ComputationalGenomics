@@ -30,8 +30,11 @@ Not that the decoding times for the sliding window approach as the windodw size,
 
 <img width="166" alt="image" src="https://user-images.githubusercontent.com/88948596/167264499-13cf031e-aecc-42e3-b71e-0ec871d676bc.png">
 
+**System Requirements**
+
+Python3
+_*No additional computing power required._
+
 **Required Libraries**
 
 numpy, pandas, pickle, sklearn, tqdm
-
-_*No additional computing power required._
