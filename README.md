@@ -33,6 +33,7 @@ Not that the decoding times for the sliding window approach as the windodw size,
 **System Requirements**
 
 Python3
+
 _*No additional computing power required._
 
 **Required Libraries**
